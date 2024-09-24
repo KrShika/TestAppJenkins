@@ -11,7 +11,7 @@ public void reverseTestWithNull(){
 
 @Test
 public void reverseTestWithDigit(){
-    Assert.assertEquals("cba321",ReverseString.reverseString("123abc"));
+    Assert.assertEquals("cba3218",ReverseString.reverseString("123abc"));
     System.out.println("reverseTestWithDigit");
 }
 
